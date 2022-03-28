@@ -1,6 +1,6 @@
 # Cache
 
-`cache` is a high performance local cache package written by golang which is inspired by [Redis](https://github.com/redis/redis) and [LevelDB](https://github.com/google/leveldb). You can see it as a redis with no client-server suppor.
+`Cache` is a high performance local cache package written by golang which is inspired by [Redis](https://github.com/redis/redis) and [LevelDB](https://github.com/google/leveldb). You can see it as a redis with no client-server support.
 
 Mainly used in the following scenarios:
 
